@@ -30,8 +30,8 @@ A curated guide to networking concepts every backend engineer should master for 
   - [TCP/IP Model and Its Layers](#tcpip-model-and-its-layers)
   - [Comparison of OSI and TCP/IP Models](#comparison-of-osi-and-tcpip-models)
 
-## [Contributing](#contributing)
-## [License](#license)
+[Contributing](#contributing)
+[License](#license)
 
 ## Introduction to Computer Networks
 
