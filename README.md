@@ -128,17 +128,6 @@ Physical topologies describe the physical connections between devices.
 - **Pros**: Highly reliable, no single point of failure.
 - **Cons**: Expensive, complex setup.
 - **Use Case**: Critical infrastructure like data centers.
-
-### Logical Topologies
-- **Definition**: How data flows, regardless of physical layout.
-- **Examples**:
-  - A physical star topology may use a logical bus for broadcasting.
-  - A physical mesh may use logical point-to-point connections.
-- **Key Considerations**: Logical topologies affect data routing efficiency and network performance.
-- **Interview Questions**:
-  - How does a logical topology differ from a physical one?
-  - Why might a star topology use a logical bus?
-
     
 <xaiArtifact artifact_id="7b358a15-f115-4c7a-871e-322b7f02eb60" artifact_version_id="680e871a-b7a0-41d4-8560-6f3d59bd48be" title="network_topologies.md" contentType="text/markdown">
 
@@ -153,9 +142,19 @@ Physical topologies describe the physical connections between devices.
 
 </xaiArtifact>
 
+### Logical Topologies
+- **Definition**: How data flows, regardless of physical layout.
+- **Examples**:
+  - A physical star topology may use a logical bus for broadcasting.
+  - A physical mesh may use logical point-to-point connections.
+- **Key Considerations**: Logical topologies affect data routing efficiency and network performance.
+- **Interview Questions**:
+  - How does a logical topology differ from a physical one?
+  - Why might a star topology use a logical bus?
+
 <xaiArtifact artifact_id="15a8b1c1-dcd8-4943-ad6b-c8278b741701" artifact_version_id="44d07bda-da13-4168-a202-5b746e378e4b" title="logical_vs_physical_topologies.md" contentType="text/markdown">
 
-# Logical vs. Physical Network Topologies Comparison
+## Logical vs. Physical Network Topologies Comparison
 
 | Aspect            | Logical Topology                              | Physical Topology                            |
 |-------------------|----------------------------------------------|---------------------------------------------|
