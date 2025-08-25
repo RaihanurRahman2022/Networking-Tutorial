@@ -306,7 +306,7 @@ In a backend API call:
 
 Understanding both models helps you articulate networking concepts clearly in interviews, whether discussing theoretical layers (OSI) or practical protocols (TCP/IP).
 
-## Contributing
+### Contributing
 Contributions are welcome to improve this tutorial! You can:
 - Add code examples (e.g., Python/Go snippets for TCP or UDP communication).
 - Include diagrams (e.g., Mermaid diagrams for OSI vs. TCP/IP layers).
@@ -319,5 +319,5 @@ To contribute:
 4. Push to your branch: `git push origin feature/your-feature`.
 5. Open a pull request.
 
-## License
+### License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
