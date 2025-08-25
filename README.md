@@ -139,6 +139,34 @@ Physical topologies describe the physical connections between devices.
   - How does a logical topology differ from a physical one?
   - Why might a star topology use a logical bus?
 
+    
+<xaiArtifact artifact_id="7b358a15-f115-4c7a-871e-322b7f02eb60" artifact_version_id="680e871a-b7a0-41d4-8560-6f3d59bd48be" title="network_topologies.md" contentType="text/markdown">
+
+## Network Topologies Comparison
+
+| Feature            | Star Topology                | Ring Topology                | Mesh Topology                | Bus Topology                |
+|--------------------|------------------------------|------------------------------|------------------------------|-----------------------------|
+| **Structure**      | Central hub                  | Circular loop                | Fully interconnected         | Single communication line   |
+| **Fault Tolerance**| Moderate (hub failure)       | Low (one failure disrupts)   | High                        | Low                         |
+| **Cost**           | Moderate                     | Low                          | High                        | Low                         |
+| **Scalability**    | Easy to expand               | Difficult to expand          | Difficult but reliable       | Limited                     |
+
+</xaiArtifact>
+
+<xaiArtifact artifact_id="15a8b1c1-dcd8-4943-ad6b-c8278b741701" artifact_version_id="44d07bda-da13-4168-a202-5b746e378e4b" title="logical_vs_physical_topologies.md" contentType="text/markdown">
+
+# Logical vs. Physical Network Topologies Comparison
+
+| Aspect            | Logical Topology                              | Physical Topology                            |
+|-------------------|----------------------------------------------|---------------------------------------------|
+| **Definition**    | Describes data flow within the network.       | Describes the physical arrangement of devices. |
+| **Dependency**    | Independent of physical structure.            | Dictated by cabling and hardware placement.  |
+| **Examples**      | Bus, Ring, VLANs.                            | Star, Mesh, Tree.                           |
+| **Use Case**      | Defines communication rules and data flow logic. | Determines network's physical setup.       |
+| **Implementation**| Software-defined (protocols, switches).       | Hardware-based (cables, hubs, switches).     |
+
+</xaiArtifact>
+
 ### Example
 A data center uses a mesh topology for redundancy but logically routes data point-to-point to optimize performance for specific server-to-server communication.
 
