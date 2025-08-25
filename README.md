@@ -321,24 +321,3 @@ To contribute:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-</xaiArtifact>
-
-
-## Contributing
-Contributions are welcome to enhance this tutorial! You can:
-- Add practical examples (e.g., code snippets in Python/Go for network programming).
-- Include diagrams (e.g., using Mermaid for network topologies).
-- Expand sections with advanced topics like subnetting or load balancing.
-
-To contribute:
-1. Fork the repository.
-2. Create a branch: `git checkout -b feature/your-feature`.
-3. Commit changes: `git commit -m "Add your feature"`.
-4. Push to your branch: `git push origin feature/your-feature`.
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-</xaiArtifact>
